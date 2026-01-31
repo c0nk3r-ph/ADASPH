@@ -24,7 +24,14 @@ export default function Footer() {
         <div className="grid grid-cols-1 gap-8 md:grid-cols-4">
           {/* Brand Section */}
           <div className="col-span-1 md:col-span-2">
-            <h3 className="text-2xl font-bold text-white mb-4">AdasPH</h3>
+            <div className="mb-4">
+              <img
+                src="/logo-blanco.png"
+                alt="AdasPH"
+                className="h-8 w-auto"
+                loading="lazy"
+              />
+            </div>
             <p className="text-gray-400 mb-4 max-w-md">
               ADASPH: Gestión integral, soluciones reales y control operativo.
             </p>

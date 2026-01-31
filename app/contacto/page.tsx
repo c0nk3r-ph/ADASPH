@@ -125,7 +125,6 @@ export default function ContactoPage() {
               <p className="text-gray-600">
                 Lunes a Viernes: 8:00 AM - 6:00 PM
               </p>
-              <p className="text-gray-600">Sábados: 9:00 AM - 1:00 PM</p>
             </div>
           </div>
 

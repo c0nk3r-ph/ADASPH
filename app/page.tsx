@@ -23,15 +23,25 @@ export default async function HomePage() {
   return (
     <>
       {/* Hero Section */}
-      <section className="bg-gradient-to-br from-primary-600 to-primary-800 text-white">
-        <div className="container-custom py-24 sm:py-32">
+      <section className="relative text-white">
+        {/* Background Image */}
+        <div 
+          className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+          style={{
+            backgroundImage: "url('/hero-background.png')",
+          }}
+        />
+        {/* Dark Overlay for text contrast */}
+        <div className="absolute inset-0 bg-black/40" />
+        {/* Content */}
+        <div className="relative container-custom py-24 sm:py-32">
           <div className="mx-auto max-w-2xl text-center">
             <h1 className="text-4xl font-bold tracking-tight sm:text-6xl">
               Administración Profesional de Propiedad Horizontal
             </h1>
-            <p className="mt-6 text-lg leading-8 text-primary-100">
+            <p className="mt-6 text-lg leading-8 text-white/90">
               Gestión eficiente, transparente y profesional para su comunidad.
-              Más de 10 años de experiencia al servicio de su propiedad
+              Más de 20 años de experiencia al servicio de su propiedad
               horizontal.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">

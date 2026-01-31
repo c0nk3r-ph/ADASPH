@@ -24,8 +24,13 @@ export default function Header() {
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <Link href="/" className="text-2xl font-bold text-primary-600">
-              AdasPH
+            <Link href="/" className="block">
+              <img
+                src="/logo-azul.png"
+                alt="AdasPH"
+                className="h-10 w-auto"
+                loading="lazy"
+              />
             </Link>
           </div>
 

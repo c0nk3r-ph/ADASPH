@@ -76,26 +76,12 @@ export default async function ServiciosPage() {
               <div className={`flex-1 flex items-center justify-center rounded-lg p-8 ${
                 index % 2 === 0 ? "bg-gray-50" : "bg-white border border-gray-200"
               }`}>
-                <div className="text-center">
-                  <div className="mx-auto h-24 w-24 rounded-full bg-primary-100 flex items-center justify-center mb-4">
-                    <svg
-                      className="h-12 w-12 text-primary-600"
-                      fill="none"
-                      stroke="currentColor"
-                      viewBox="0 0 24 24"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        strokeWidth={2}
-                        d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
-                      />
-                    </svg>
-                  </div>
-                  <p className="text-sm text-gray-600">
-                    Servicio profesional y confiable
-                  </p>
-                </div>
+                <img
+                  src={`/servicio-${index + 1}.png`}
+                  alt={service.title}
+                  className="w-full h-auto rounded-lg object-cover"
+                  loading="lazy"
+                />
               </div>
             </div>
           ))}
