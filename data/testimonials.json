@@ -1,0 +1,26 @@
+[
+  {
+    "id": "testimonial-1",
+    "name": "María González",
+    "role": "Presidente",
+    "company": "Conjunto Residencial Los Pinos",
+    "content": "AdasPH ha transformado la administración de nuestro conjunto. Procesos claros, comunicación constante y resultados visibles. Altamente recomendado.",
+    "rating": 5
+  },
+  {
+    "id": "testimonial-2",
+    "name": "Carlos Rodríguez",
+    "role": "Copropietario",
+    "company": "Torres del Norte",
+    "content": "La transparencia en el manejo de recursos y la eficiencia en la resolución de problemas ha superado nuestras expectativas.",
+    "rating": 5
+  },
+  {
+    "id": "testimonial-3",
+    "name": "Ana Martínez",
+    "role": "Administradora Anterior",
+    "company": "Complejo Residencial El Jardín",
+    "content": "El equipo de AdasPH es profesional, proactivo y siempre disponible. Han mejorado significativamente la calidad de vida en nuestra comunidad.",
+    "rating": 5
+  }
+]

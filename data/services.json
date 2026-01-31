@@ -1,0 +1,74 @@
+[
+  {
+    "id": "administracion-integral",
+    "title": "Administración Integral de Propiedad Horizontal",
+    "description": "Administración, dirección y representación para copropiedades residenciales, comerciales, mixtas e industriales, bajo el marco de la Ley 675 de 2001 y el reglamento interno.",
+    "features": [
+      "Presupuesto, recaudo y control de ingresos/egresos",
+      "Gestión administrativa y documental de la copropiedad",
+      "Contratación y seguimiento de proveedores (según alcance)",
+      "Soporte a asambleas, consejo y administración (según calendario)",
+      "Gestión operativa y acompañamiento en convivencia (procedimental)"
+    ]
+  },
+  {
+    "id": "servicios-operativos",
+    "title": "Servicios Operativos y de Personal",
+    "description": "Operación diaria para zonas comunes y atención al usuario, con rutinas, supervisión y soporte operativo.",
+    "features": [
+      "Aseo, limpieza y desinfección de áreas comunes",
+      "Mantenimiento básico y control de novedades operativas",
+      "Recepción, conserjería, portería y atención al público",
+      "Coordinación de turnos y protocolos operativos",
+      "Soporte para continuidad del funcionamiento (según servicio)"
+    ]
+  },
+  {
+    "id": "gestion-inmobiliaria",
+    "title": "Gestión y Negocios Inmobiliarios",
+    "description": "Administración y negociación de inmuebles urbanos y rurales, con gestión comercial y control documental.",
+    "features": [
+      "Administración de inmuebles (arrendamiento/subarrendamiento)",
+      "Compra, venta, permuta y negociación de lotes/terrenos",
+      "Intermediación y corretaje inmobiliario",
+      "Coordinación de visitas y gestión de interesados (según plan)",
+      "Acompañamiento documental preliminar del proceso"
+    ]
+  },
+  {
+    "id": "reparaciones-pintura",
+    "title": "Reparaciones Locativas y Pintura",
+    "description": "Ejecución y coordinación de trabajos locativos, correctivos y pintura, con alcance, cronograma y cierre de actividades.",
+    "features": [
+      "Diagnóstico y definición de alcance del trabajo",
+      "Cotización y programación de actividades",
+      "Ejecución de reparaciones locativas y pintura",
+      "Supervisión y control de calidad (según acuerdo)",
+      "Entrega y cierre con registro/acta (cuando aplique)"
+    ]
+  },
+  {
+    "id": "servicios-juridicos",
+    "title": "Servicios Jurídicos y Recuperación de Cartera",
+    "description": "Asesoría jurídica en propiedad horizontal y gestión de cartera morosa en etapas prejurídica y jurídica, con trazabilidad.",
+    "features": [
+      "Asesoría especializada en propiedad horizontal",
+      "Recuperación de cartera: prejurídica (gestión y acuerdos)",
+      "Recuperación de cartera: jurídica (según viabilidad y soporte)",
+      "Elaboración/actualización/reforma de reglamentos PH",
+      "Soporte documental para procesos y decisiones de la copropiedad"
+    ]
+  },
+  {
+    "id": "comercializacion-suministros",
+    "title": "Comercialización y Suministros",
+    "description": "Abastecimiento y comercialización de insumos operativos y materiales para mantenimiento, con continuidad y soporte de compras.",
+    "features": [
+      "Productos de aseo e insumos de cafetería",
+      "Materiales de construcción, acabados y ferretería",
+      "Dotaciones industriales (según requerimiento)",
+      "Compra, venta y distribución (según disponibilidad)",
+      "Importación/exportación cuando aplique (bajo condiciones comerciales)"
+    ]
+  }
+]
